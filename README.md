@@ -1,1 +1,1 @@
-# Sentiment-Analysis-using-Machine-Learning
+# Sentiment-Analysis-using-Machine-Learning-and-Algorithms
